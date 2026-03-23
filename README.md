@@ -27,7 +27,8 @@ layout:
     visible: true
 ---
 
-# App Catalog
+# App Catalog Content
+
+A searchable, filterable catalog of apps available for your GitBook space. Browse by category, filter by price, and click through to any app's full documentation page.
 
 {% @mo-app-catalogue/mo-app-catalogue fullWidth="false" %}
-
