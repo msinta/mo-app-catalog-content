@@ -5,8 +5,6 @@ vars:
   publisher: SecureNet
   requiredProduct: Gateway
   supportedVersions: 2021 R2, 2022 R1, 2022 R2, 2023 R1
-  status: Stable
-  verified: 'true'
 description: Secrets management and environment variable storage.
 icon: key
 layout:

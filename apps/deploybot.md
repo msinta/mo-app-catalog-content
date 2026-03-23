@@ -5,8 +5,6 @@ vars:
   publisher: DevTools Inc
   requiredProduct: Cloud
   supportedVersions: 2021 R1, 2021 R2, 2022 R1, 2022 R2
-  status: Stable
-  verified: 'true'
 description: One-click deployments to any cloud provider.
 icon: ship
 layout:

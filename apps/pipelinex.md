@@ -1,12 +1,10 @@
 ---
 vars:
-  version: '1.1'
   price: '2400'
   publisher: Acme Corp
   requiredProduct: DataHub
   supportedVersions: 2023 R1, 2023 R2
   status: Beta
-  verified: 'false'
 description: Visual ETL pipeline builder for data teams.
 icon: paper-plane
 layout:

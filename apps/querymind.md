@@ -5,8 +5,6 @@ vars:
   publisher: VisualBI
   requiredProduct: Analytics Suite
   supportedVersions: 2023 R1, 2023 R2
-  status: Beta
-  verified: 'false'
 description: AI-powered SQL query assistant for analysts.
 icon: brain
 layout:

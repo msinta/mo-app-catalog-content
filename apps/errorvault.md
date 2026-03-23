@@ -5,8 +5,6 @@ vars:
   publisher: DevTools Inc
   requiredProduct: Core
   supportedVersions: 2023 R1, 2023 R2, 2024 R1
-  status: Beta
-  verified: 'false'
 description: Real-time error tracking with smart grouping.
 icon: spider
 layout:

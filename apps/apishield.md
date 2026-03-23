@@ -5,8 +5,6 @@ vars:
   publisher: SecureNet
   requiredProduct: Gateway
   supportedVersions: 2021 R1, 2022 R1, 2023 R1
-  status: Stable
-  verified: 'true'
 description: Rate limiting and security layer for REST APIs.
 icon: shield-halved
 layout:
