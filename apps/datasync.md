@@ -6,7 +6,7 @@ vars:
   requiredProduct: DataHub
   supportedVersions: 2022 R1, 2022 R2, 2023 R1
 description: Real-time data synchronization across your stack.
-icon: cloud-binary
+icon: database
 layout:
   width: wide
   title:

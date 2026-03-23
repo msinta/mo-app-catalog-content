@@ -16,3 +16,7 @@
 * [NoteStack](apps/notestack.md)
 * [QueryMind](apps/querymind.md)
 * [VaultKey](apps/vaultkey.md)
+
+***
+
+* [Instructions & Guidlines on New Apps.](instructions-and-guidlines-on-new-apps..md)
