@@ -34,7 +34,7 @@ tags:
 
 {% hint style="info" %}
 Version: **4.3**\
-Supported Versions: **2022 R1, 2022 R2, 2023 R1, 2023 R2, 2024 R1**\
+Supported Versions: **2022 R1, 2022 R2, 2023 R1**\
 Required Product: **Workflow**
 {% endhint %}
 
