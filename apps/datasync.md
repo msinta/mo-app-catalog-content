@@ -24,8 +24,10 @@ layout:
   tags:
     visible: true
 tags:
-  - tag: verified
+  - tag: data
     primary: true
+  - tag: stable
+  - tag: verified
 ---
 
 # DataSync

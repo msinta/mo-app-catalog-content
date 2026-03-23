@@ -1,5 +1,13 @@
 ---
 description: AI-powered SQL query assistant for analysts.
+vars:
+  version: '2.0'
+  price: '899'
+  publisher: VisualBI
+  requiredProduct: Analytics Suite
+  supportedVersions: 2023 R1, 2023 R2
+  status: Beta
+  verified: 'false'
 icon: octopus-deploy
 layout:
   width: wide
@@ -17,6 +25,10 @@ layout:
     visible: true
   tags:
     visible: true
+tags:
+  - tag: analytics
+    primary: true
+  - tag: beta
 ---
 
 # QueryMind

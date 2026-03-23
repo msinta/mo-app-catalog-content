@@ -1,5 +1,13 @@
 ---
 description: Real-time error tracking with smart grouping.
+vars:
+  version: '2.2'
+  price: '0'
+  publisher: DevTools Inc
+  requiredProduct: Core
+  supportedVersions: 2023 R1, 2023 R2, 2024 R1
+  status: Beta
+  verified: 'false'
 icon: spider-black-widow
 layout:
   width: wide
@@ -17,6 +25,10 @@ layout:
     visible: true
   tags:
     visible: true
+tags:
+  - tag: monitoring
+    primary: true
+  - tag: beta
 ---
 
 # ErrorVault

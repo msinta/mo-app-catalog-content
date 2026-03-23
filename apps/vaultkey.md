@@ -1,5 +1,13 @@
 ---
 description: Secrets management and environment variable storage.
+vars:
+  version: '3.5'
+  price: '599'
+  publisher: SecureNet
+  requiredProduct: Gateway
+  supportedVersions: 2021 R2, 2022 R1, 2022 R2, 2023 R1
+  status: Stable
+  verified: 'true'
 icon: key
 layout:
   width: wide
@@ -18,8 +26,10 @@ layout:
   tags:
     visible: true
 tags:
-  - tag: verified
+  - tag: security
     primary: true
+  - tag: stable
+  - tag: verified
 ---
 
 # VaultKey

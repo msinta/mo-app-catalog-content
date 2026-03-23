@@ -1,5 +1,13 @@
 ---
 description: Collaborative note-taking with markdown support.
+vars:
+  version: '1.3'
+  price: '0'
+  publisher: CollabHQ
+  requiredProduct: Core
+  supportedVersions: 2023 R1, 2023 R2, 2024 R1
+  status: Stable
+  verified: 'false'
 icon: memo-pad
 layout:
   width: wide
@@ -17,6 +25,10 @@ layout:
     visible: true
   tags:
     visible: true
+tags:
+  - tag: productivity
+    primary: true
+  - tag: stable
 ---
 
 # NoteStack

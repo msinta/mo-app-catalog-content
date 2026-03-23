@@ -1,5 +1,13 @@
 ---
 description: Drag-and-drop data visualization builder.
+vars:
+  version: '2.6'
+  price: '499'
+  publisher: VisualBI
+  requiredProduct: Analytics Suite
+  supportedVersions: 2022 R1, 2022 R2, 2023 R1, 2023 R2
+  status: Stable
+  verified: 'true'
 icon: chart-line-up
 layout:
   width: wide
@@ -18,8 +26,10 @@ layout:
   tags:
     visible: true
 tags:
-  - tag: verified
+  - tag: analytics
     primary: true
+  - tag: stable
+  - tag: verified
 ---
 
 # ChartFlow

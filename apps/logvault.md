@@ -23,8 +23,10 @@ layout:
   tags:
     visible: true
 tags:
-  - tag: verified
+  - tag: monitoring
     primary: true
+  - tag: stable
+  - tag: verified
 ---
 
 # LogVault

@@ -1,5 +1,13 @@
 ---
 description: Rate limiting and security layer for REST APIs.
+vars:
+  version: '4.0'
+  price: '1200'
+  publisher: SecureNet
+  requiredProduct: Gateway
+  supportedVersions: 2021 R1, 2022 R1, 2023 R1
+  status: Stable
+  verified: 'true'
 icon: shield-halved
 layout:
   width: wide
@@ -18,8 +26,10 @@ layout:
   tags:
     visible: true
 tags:
-  - tag: verified
+  - tag: security
     primary: true
+  - tag: stable
+  - tag: verified
 ---
 
 # APIShield

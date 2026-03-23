@@ -1,5 +1,13 @@
 ---
 description: Visual ETL pipeline builder for data teams.
+vars:
+  version: '1.1'
+  price: '2400'
+  publisher: Acme Corp
+  requiredProduct: DataHub
+  supportedVersions: 2023 R1, 2023 R2
+  status: Beta
+  verified: 'false'
 icon: diagram-sankey
 layout:
   width: wide
@@ -17,6 +25,10 @@ layout:
     visible: true
   tags:
     visible: true
+tags:
+  - tag: data
+    primary: true
+  - tag: beta
 ---
 
 # PipelineX

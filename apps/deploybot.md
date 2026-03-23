@@ -1,5 +1,13 @@
 ---
 description: One-click deployments to any cloud provider.
+vars:
+  version: '5.1'
+  price: '3500'
+  publisher: DevTools Inc
+  requiredProduct: Cloud
+  supportedVersions: 2021 R1, 2021 R2, 2022 R1, 2022 R2
+  status: Stable
+  verified: 'true'
 icon: ship
 layout:
   width: wide
@@ -18,8 +26,10 @@ layout:
   tags:
     visible: true
 tags:
-  - tag: verified
+  - tag: devops
     primary: true
+  - tag: stable
+  - tag: verified
 ---
 
 # DeployBot

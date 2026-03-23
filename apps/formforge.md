@@ -1,5 +1,13 @@
 ---
 description: Build dynamic forms with validation and workflows.
+vars:
+  version: '2.1'
+  price: '0'
+  publisher: Acme Corp
+  requiredProduct: Workflow
+  supportedVersions: 2023 R1, 2023 R2
+  status: Beta
+  verified: 'false'
 icon: fort
 layout:
   width: wide
@@ -17,6 +25,10 @@ layout:
     visible: true
   tags:
     visible: true
+tags:
+  - tag: productivity
+    primary: true
+  - tag: beta
 ---
 
 # FormForge
