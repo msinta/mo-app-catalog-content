@@ -4,7 +4,7 @@ vars:
   price: '149'
   publisher: CollabHQ
   requiredProduct: Workflow
-  supportedVersions: 2022 R1, 2022 R2, 2023 R1, 2023 R2, 2024 R1
+  supportedVersions: 2022 R1, 2022 R2, 2023 R1
 description: Connect and sync tasks across Jira, Linear, and Asana.
 icon: list-check
 layout:
