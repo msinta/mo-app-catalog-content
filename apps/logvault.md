@@ -4,6 +4,7 @@ vars:
   price: '299'
   publisher: DevTools Inc
   requiredProduct: Core
+  supportedVersions: 2021 R2, 2022 R1, 2022 R2
 description: Centralized logging and monitoring for teams.
 icon: blog
 layout:
