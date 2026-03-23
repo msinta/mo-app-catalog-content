@@ -1,6 +1,16 @@
 ---
 description: Real-time data synchronization across your stack.
+vars:
+  price: '0'
+  version: '1.1'
+  publisher: Acme Corp
+  requiredProduct: DataHub
+  supportedVersions: 2023 R1, 2023 R2
 icon: '3'
+tags:
+  - data
+  - verified
+  - stable
 ---
 
 # Mohamed Test
