@@ -18,6 +18,6 @@
 * [QueryMind](apps/querymind.md)
 * [VaultKey](apps/vaultkey.md)
 
-***
+## Internal
 
-* [Instructions & Guidlines on New Apps.](instructions-and-guidlines-on-new-apps..md)
+* [How to Add an App](internal/instructions-and-guidlines-on-new-apps..md)
