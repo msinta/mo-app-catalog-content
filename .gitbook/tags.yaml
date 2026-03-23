@@ -1,28 +1,27 @@
-yamltags:
-  - tag: data
-    label: Data
-    color: blue
-  - tag: monitoring
-    label: Monitoring
-    color: orange
-  - tag: productivity
-    label: Productivity
-    color: purple
-  - tag: security
-    label: Security
-    color: red
-  - tag: analytics
-    label: Analytics
-    color: teal
-  - tag: devops
-    label: DevOps
-    color: gray
-  - tag: stable
-    label: Stable
-    color: green
-  - tag: beta
-    label: Beta
-    color: yellow
-  - tag: verified
-    label: Verified
-    color: yellow
+- tag: data
+  label: Data
+  color: blue
+- tag: monitoring
+  label: Monitoring
+  color: orange
+- tag: productivity
+  label: Productivity
+  color: purple
+- tag: security
+  label: Security
+  color: red
+- tag: analytics
+  label: Analytics
+  color: teal
+- tag: devops
+  label: DevOps
+  color: gray
+- tag: stable
+  label: Stable
+  color: green
+- tag: beta
+  label: Beta
+  color: yellow
+- tag: verified
+  label: Verified
+  color: yellow
