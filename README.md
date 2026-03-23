@@ -4,7 +4,7 @@ description: >-
   docs.
 icon: google-drive
 cover: >-
-  https://images.unsplash.com/photo-1771032933033-f94d641f3439?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQyOTcxNDZ8&ixlib=rb-4.1.0&q=85
+  https://images.unsplash.com/photo-1604076913837-52ab5629fba9?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw5fHxhYnN0cmFjdHxlbnwwfHx8fDE3NzQyOTkyMjF8MA&ixlib=rb-4.1.0&q=85
 coverY: 0
 layout:
   width: wide
