@@ -2,7 +2,7 @@
 description: >-
   A searchable app catalogue — browse, filter, and explore apps directly in your
   docs.
-icon: google-drive
+icon: grid-2
 cover: >-
   https://images.unsplash.com/photo-1604076913837-52ab5629fba9?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw5fHxhYnN0cmFjdHxlbnwwfHx8fDE3NzQyOTkyMjF8MA&ixlib=rb-4.1.0&q=85
 coverY: 0
