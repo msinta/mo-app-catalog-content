@@ -29,4 +29,4 @@ layout:
 
 # App Catalog
 
-{% @mo-app-catalogue/mo-app-catalogue fullWidth="false" %}
+{% @mo-app-catalog/mo-app-catalog %}
