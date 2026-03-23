@@ -1,5 +1,4 @@
 ---
-description: Secrets management and environment variable storage.
 vars:
   version: '3.5'
   price: '599'
@@ -8,6 +7,7 @@ vars:
   supportedVersions: 2021 R2, 2022 R1, 2022 R2, 2023 R1
   status: Stable
   verified: 'true'
+description: Secrets management and environment variable storage.
 icon: key
 layout:
   width: wide
@@ -26,10 +26,10 @@ layout:
   tags:
     visible: true
 tags:
-  - tag: security
-    primary: true
-  - tag: stable
+  - security
+  - stable
   - tag: verified
+    primary: true
 ---
 
 # VaultKey
@@ -47,13 +47,13 @@ Publisher: **SecureNet**\
 Status: **Stable**
 {% endhint %}
 
-Price:&#x20;
+Price:
 
 {% hint style="success" %}
 **$599**
 {% endhint %}
 
-<h4 align="right"><a href="https://acmecorp.com/datasyncpro/download" class="button primary" data-icon="square-down">Download </a></h4>
+<h4 align="right"><a href="https://acmecorp.com/datasyncpro/download" class="button primary" data-icon="square-down">Download</a></h4>
 
 ### App Description
 
@@ -65,4 +65,4 @@ VaultKey gives engineering teams a secure, auditable place to store secrets, API
 VaultKey 3.5 — Supported versions: 2021 R2, 2022 R1, 2022 R2, 2023 R1
 ```
 
-<h4 align="right"><a href="https://acmecorp.com/datasyncpro/download" class="button secondary" data-icon="square-down">Download </a></h4>
+<h4 align="right"><a href="https://acmecorp.com/datasyncpro/download" class="button secondary" data-icon="square-down">Download</a></h4>

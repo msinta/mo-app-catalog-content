@@ -1,5 +1,4 @@
 ---
-description: Collaborative note-taking with markdown support.
 vars:
   version: '1.3'
   price: '0'
@@ -8,6 +7,7 @@ vars:
   supportedVersions: 2023 R1, 2023 R2, 2024 R1
   status: Stable
   verified: 'false'
+description: Collaborative note-taking with markdown support.
 icon: memo-pad
 layout:
   width: wide
@@ -26,9 +26,8 @@ layout:
   tags:
     visible: true
 tags:
-  - tag: productivity
-    primary: true
-  - tag: stable
+  - productivity
+  - stable
 ---
 
 # NoteStack
@@ -46,13 +45,13 @@ Publisher: **CollabHQ**\
 Status: **Stable**
 {% endhint %}
 
-Price:&#x20;
+Price:
 
 {% hint style="success" icon="sack-dollar" %}
 **Free**
 {% endhint %}
 
-<h4 align="right"><a href="https://acmecorp.com/datasyncpro/download" class="button primary" data-icon="square-down">Download </a></h4>
+<h4 align="right"><a href="https://acmecorp.com/datasyncpro/download" class="button primary" data-icon="square-down">Download</a></h4>
 
 ### App Description
 
@@ -64,4 +63,4 @@ NoteStack brings collaborative note-taking to your team with full markdown suppo
 NoteStack 1.3 — Supported versions: 2023 R1, 2023 R2, 2024 R1
 ```
 
-<h4 align="right"><a href="https://acmecorp.com/datasyncpro/download" class="button secondary" data-icon="square-down">Download </a></h4>
+<h4 align="right"><a href="https://acmecorp.com/datasyncpro/download" class="button secondary" data-icon="square-down">Download</a></h4>

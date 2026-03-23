@@ -1,5 +1,4 @@
 ---
-description: AI-powered SQL query assistant for analysts.
 vars:
   version: '2.0'
   price: '899'
@@ -8,6 +7,7 @@ vars:
   supportedVersions: 2023 R1, 2023 R2
   status: Beta
   verified: 'false'
+description: AI-powered SQL query assistant for analysts.
 icon: octopus-deploy
 layout:
   width: wide
@@ -26,9 +26,8 @@ layout:
   tags:
     visible: true
 tags:
-  - tag: analytics
-    primary: true
-  - tag: beta
+  - analytics
+  - beta
 ---
 
 # QueryMind
@@ -46,13 +45,13 @@ Publisher: **VisualBI**\
 Status: **Beta**
 {% endhint %}
 
-Price:&#x20;
+Price:
 
 {% hint style="success" %}
 **$899**
 {% endhint %}
 
-<h4 align="right"><a href="https://acmecorp.com/datasyncpro/download" class="button primary" data-icon="square-down">Download </a></h4>
+<h4 align="right"><a href="https://acmecorp.com/datasyncpro/download" class="button primary" data-icon="square-down">Download</a></h4>
 
 ### App Description
 
@@ -64,4 +63,4 @@ QueryMind uses AI to turn plain English into production-ready SQL. Describe what
 QueryMind 2.0 — Supported versions: 2023 R1, 2023 R2
 ```
 
-<h4 align="right"><a href="https://acmecorp.com/datasyncpro/download" class="button secondary" data-icon="square-down">Download </a></h4>
+<h4 align="right"><a href="https://acmecorp.com/datasyncpro/download" class="button secondary" data-icon="square-down">Download</a></h4>

@@ -1,10 +1,10 @@
 ---
-description: Real-time data synchronization across your stack.
 vars:
   version: '1.8'
   price: '299'
   publisher: DevTools Inc
   requiredProduct: Core
+description: Real-time data synchronization across your stack.
 icon: blog
 layout:
   width: wide
@@ -23,10 +23,10 @@ layout:
   tags:
     visible: true
 tags:
-  - tag: monitoring
-    primary: true
-  - tag: stable
+  - monitoring
+  - stable
   - tag: verified
+    primary: true
 ---
 
 # LogVault
@@ -44,13 +44,13 @@ Publisher: **DevTools Inc**\
 Status: **Stable**
 {% endhint %}
 
-Price:&#x20;
+Price:
 
 {% hint style="success" icon="sack-dollar" %}
 **$299**
 {% endhint %}
 
-<h4 align="right"><a href="https://acmecorp.com/datasyncpro/download" class="button primary" data-icon="square-down">Download </a></h4>
+<h4 align="right"><a href="https://acmecorp.com/datasyncpro/download" class="button primary" data-icon="square-down">Download</a></h4>
 
 ### App Description
 
@@ -62,4 +62,4 @@ LogVault aggregates logs from any source into a single, searchable interface. Se
 LogVault 1.8 — Supported versions: 2021 R2, 2022 R1, 2022 R2
 ```
 
-<h4 align="right"><a href="https://acmecorp.com/datasyncpro/download" class="button secondary" data-icon="square-down">Download </a></h4>
+<h4 align="right"><a href="https://acmecorp.com/datasyncpro/download" class="button secondary" data-icon="square-down">Download</a></h4>

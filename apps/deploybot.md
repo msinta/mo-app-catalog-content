@@ -1,5 +1,4 @@
 ---
-description: One-click deployments to any cloud provider.
 vars:
   version: '5.1'
   price: '3500'
@@ -8,6 +7,7 @@ vars:
   supportedVersions: 2021 R1, 2021 R2, 2022 R1, 2022 R2
   status: Stable
   verified: 'true'
+description: One-click deployments to any cloud provider.
 icon: ship
 layout:
   width: wide
@@ -26,10 +26,10 @@ layout:
   tags:
     visible: true
 tags:
-  - tag: devops
-    primary: true
-  - tag: stable
+  - devops
+  - stable
   - tag: verified
+    primary: true
 ---
 
 # DeployBot
@@ -47,13 +47,13 @@ Publisher: **DevTools Inc**\
 Status: **Stable**
 {% endhint %}
 
-Price:&#x20;
+Price:
 
 {% hint style="success" icon="sack-dollar" %}
 Price: **$3,500**
 {% endhint %}
 
-<h4 align="right"><a href="https://acmecorp.com/datasyncpro/download" class="button primary" data-icon="square-down">Download </a></h4>
+<h4 align="right"><a href="https://acmecorp.com/datasyncpro/download" class="button primary" data-icon="square-down">Download</a></h4>
 
 ### App Description
 
@@ -65,4 +65,4 @@ DeployBot streamlines deployments to AWS, GCP, and Azure with one click. Include
 DeployBot 5.1 — Supported versions: 2021 R1, 2021 R2, 2022 R1, 2022 R2
 ```
 
-<h4 align="right"><a href="https://acmecorp.com/datasyncpro/download" class="button secondary" data-icon="square-down">Download </a></h4>
+<h4 align="right"><a href="https://acmecorp.com/datasyncpro/download" class="button secondary" data-icon="square-down">Download</a></h4>

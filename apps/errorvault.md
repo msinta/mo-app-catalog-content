@@ -1,5 +1,4 @@
 ---
-description: Real-time error tracking with smart grouping.
 vars:
   version: '2.2'
   price: '0'
@@ -8,6 +7,7 @@ vars:
   supportedVersions: 2023 R1, 2023 R2, 2024 R1
   status: Beta
   verified: 'false'
+description: Real-time error tracking with smart grouping.
 icon: spider-black-widow
 layout:
   width: wide
@@ -26,9 +26,8 @@ layout:
   tags:
     visible: true
 tags:
-  - tag: monitoring
-    primary: true
-  - tag: beta
+  - monitoring
+  - beta
 ---
 
 # ErrorVault
@@ -46,13 +45,13 @@ Publisher: **DevTools Inc**\
 Status: **Beta**
 {% endhint %}
 
-Price:&#x20;
+Price:
 
 {% hint style="success" icon="sack-dollar" %}
 **Free**
 {% endhint %}
 
-<h4 align="right"><a href="https://acmecorp.com/datasyncpro/download" class="button primary" data-icon="square-down">Download </a></h4>
+<h4 align="right"><a href="https://acmecorp.com/datasyncpro/download" class="button primary" data-icon="square-down">Download</a></h4>
 
 ### App Description
 
@@ -64,4 +63,4 @@ ErrorRadar tracks errors in real time and groups them intelligently so you're ne
 ErrorRadar 2.2 — Supported versions: 2023 R1, 2023 R2, 2024 R1
 ```
 
-<h4 align="right"><a href="https://acmecorp.com/datasyncpro/download" class="button secondary" data-icon="square-down">Download </a></h4>
+<h4 align="right"><a href="https://acmecorp.com/datasyncpro/download" class="button secondary" data-icon="square-down">Download</a></h4>

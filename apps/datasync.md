@@ -1,11 +1,11 @@
 ---
-description: Real-time data synchronization across your stack.
 vars:
   version: '3.2'
   price: '0'
   publisher: Acme Corp
   requiredProduct: DataHub
   supportedVersions: 2022 R1, 2022 R2, 2023 R1
+description: Real-time data synchronization across your stack.
 icon: cloud-binary
 layout:
   width: wide
@@ -24,10 +24,10 @@ layout:
   tags:
     visible: true
 tags:
-  - tag: data
-    primary: true
-  - tag: stable
+  - data
+  - stable
   - tag: verified
+    primary: true
 ---
 
 # DataSync
@@ -45,13 +45,13 @@ Publisher: **Acme Corp**\
 Status: **Stable**
 {% endhint %}
 
-Price:&#x20;
+Price:
 
 {% hint style="success" icon="sack-dollar" %}
 **Free**
 {% endhint %}
 
-<h4 align="right"><a href="https://acmecorp.com/datasyncpro/download" class="button primary" data-icon="square-down">Download </a></h4>
+<h4 align="right"><a href="https://acmecorp.com/datasyncpro/download" class="button primary" data-icon="square-down">Download</a></h4>
 
 ### App Description
 
@@ -63,4 +63,4 @@ DataSync Pro enables real-time data synchronization across your entire stack. Co
 DataSync Pro 3.2 — Supported versions: 2022 R1, 2022 R2, 2023 R1
 ```
 
-<h4 align="right"><a href="https://acmecorp.com/datasyncpro/download" class="button secondary" data-icon="square-down">Download </a></h4>
+<h4 align="right"><a href="https://acmecorp.com/datasyncpro/download" class="button secondary" data-icon="square-down">Download</a></h4>

@@ -1,5 +1,4 @@
 ---
-description: Build dynamic forms with validation and workflows.
 vars:
   version: '2.1'
   price: '0'
@@ -8,6 +7,7 @@ vars:
   supportedVersions: 2023 R1, 2023 R2
   status: Beta
   verified: 'false'
+description: Build dynamic forms with validation and workflows.
 icon: fort
 layout:
   width: wide
@@ -26,9 +26,8 @@ layout:
   tags:
     visible: true
 tags:
-  - tag: productivity
-    primary: true
-  - tag: beta
+  - productivity
+  - beta
 ---
 
 # FormForge
@@ -46,13 +45,13 @@ Publisher: **Acme Corp**\
 Status: **Beta**
 {% endhint %}
 
-Price:&#x20;
+Price:
 
 {% hint style="success" icon="sack-dollar" %}
 **Free**
 {% endhint %}
 
-<h4 align="right"><a href="https://acmecorp.com/datasyncpro/download" class="button primary" data-icon="square-down">Download </a></h4>
+<h4 align="right"><a href="https://acmecorp.com/datasyncpro/download" class="button primary" data-icon="square-down">Download</a></h4>
 
 ### App Description
 
@@ -64,4 +63,4 @@ FormForge lets you build dynamic forms with conditional logic, validation rules,
 FormForge 2.1 — Supported versions: 2023 R1, 2023 R2
 ```
 
-<h4 align="right"><a href="https://acmecorp.com/datasyncpro/download" class="button secondary" data-icon="square-down">Download </a></h4>
+<h4 align="right"><a href="https://acmecorp.com/datasyncpro/download" class="button secondary" data-icon="square-down">Download</a></h4>

@@ -1,5 +1,4 @@
 ---
-description: Drag-and-drop data visualization builder.
 vars:
   version: '2.6'
   price: '499'
@@ -8,6 +7,7 @@ vars:
   supportedVersions: 2022 R1, 2022 R2, 2023 R1, 2023 R2
   status: Stable
   verified: 'true'
+description: Drag-and-drop data visualization builder.
 icon: chart-line-up
 layout:
   width: wide
@@ -26,10 +26,10 @@ layout:
   tags:
     visible: true
 tags:
-  - tag: analytics
-    primary: true
-  - tag: stable
+  - analytics
+  - stable
   - tag: verified
+    primary: true
 ---
 
 # ChartFlow
@@ -47,13 +47,13 @@ Publisher: **VisualBI**\
 Status: **Stable**
 {% endhint %}
 
-Price:&#x20;
+Price:
 
 {% hint style="success" icon="sack-dollar" %}
 **$499**
 {% endhint %}
 
-<h4 align="right"><a href="https://acmecorp.com/datasyncpro/download" class="button primary" data-icon="square-down">Download </a></h4>
+<h4 align="right"><a href="https://acmecorp.com/datasyncpro/download" class="button primary" data-icon="square-down">Download</a></h4>
 
 ### App Description
 
@@ -65,4 +65,4 @@ ChartFlow lets analysts and PMs build interactive dashboards without writing a s
 ChartFlow 2.6 — Supported versions: 2022 R1, 2022 R2, 2023 R1, 2023 R2
 ```
 
-<h4 align="right"><a href="https://acmecorp.com/datasyncpro/download" class="button secondary" data-icon="square-down">Download </a></h4>
+<h4 align="right"><a href="https://acmecorp.com/datasyncpro/download" class="button secondary" data-icon="square-down">Download</a></h4>
