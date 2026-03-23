@@ -49,6 +49,10 @@ Price:
 **Free**
 {% endhint %}
 
+{% hint style="success" icon="sack-dollar" %}
+**Free**
+{% endhint %}
+
 <h4 align="right"><a href="https://acmecorp.com/datasyncpro/download" class="button primary" data-icon="square-down">Download</a></h4>
 
 ### App Description

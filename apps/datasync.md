@@ -64,3 +64,5 @@ DataSync Pro 3.2 — Supported versions: 2022 R1, 2022 R2, 2023 R1
 ```
 
 <h4 align="right"><a href="https://acmecorp.com/datasyncpro/download" class="button secondary" data-icon="square-down">Download</a></h4>
+
+<h4 align="right"><a href="https://acmecorp.com/datasyncpro/download" class="button secondary" data-icon="square-down">Download</a></h4>
