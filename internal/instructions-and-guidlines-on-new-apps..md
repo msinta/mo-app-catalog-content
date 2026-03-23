@@ -1,7 +1,7 @@
 ---
 description: >-
-  Step-by-step guide for administrators on how to add a new app to the
-  catalogue, including page setup, tags, variables, and content structure.
+  Step-by-step guide for administrators on how to add a new app to the catalog,
+  including page setup, tags, variables, and content structure.
 hidden: true
 icon: location-question
 cover: >-
@@ -13,7 +13,7 @@ coverY: 0
 
 ### Overview
 
-Each app in the catalogue is a GitBook page. The easiest way to add a new app is to **duplicate an existing page** and edit it — this ensures the layout, hint blocks, download buttons, and content structure are all set up correctly from the start.
+Each app in the catalog is a GitBook page. The easiest way to add a new app is to **duplicate an existing page** and edit it — this ensures the layout, hint blocks, download buttons, and content structure are all set up correctly from the start.
 
 ***
 
@@ -29,13 +29,13 @@ Each app in the catalogue is a GitBook page. The easiest way to add a new app is
    * **Download buttons** — update the links to point to the correct download URLs
    * **Hint block** — update any notes, warnings, or tips relevant to this app
 
-Once the content is updated, follow the steps below to set up the metadata that powers the catalogue card.
+Once the content is updated, follow the steps below to set up the metadata that powers the catalog card.
 
 ***
 
 ### 1. Rename the page
 
-Click **...** → **Edit title & slug** and set the page title to the app's name. This is what appears as the card title in the catalogue.
+Click **...** → **Edit title & slug** and set the page title to the app's name. This is what appears as the card title in the catalog.
 
 ***
 
@@ -71,10 +71,10 @@ Click the **Variables** icon in the top right corner, make sure you're on **Page
 
 ### 5. Commit and sync
 
-Once all fields are filled in, commit the changes in your content repo and push to `main`. GitBook will sync automatically, and the new app will appear in the catalogue within a few seconds.
+Once all fields are filled in, commit the changes in your content repo and push to `main`. GitBook will sync automatically, and the new app will appear in the catalog within a few seconds.
 
 ***
 
 {% hint style="info" %}
-**Tip:** The catalogue filters by category tag, so make sure every app has exactly one category tag assigned. Apps without variables will be skipped and won't appear in the catalogue.&#x20;
+**Tip:** The catalog filters by category tag, so make sure every app has exactly one category tag assigned. Apps without variables will be skipped and won't appear in the catalog.&#x20;
 {% endhint %}
