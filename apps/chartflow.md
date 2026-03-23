@@ -8,7 +8,7 @@ vars:
   status: Stable
   verified: 'true'
 description: Drag-and-drop data visualization builder.
-icon: chart-line-up
+icon: arrow-trend-up
 layout:
   width: wide
   title:

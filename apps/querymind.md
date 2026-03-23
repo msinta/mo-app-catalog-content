@@ -8,7 +8,7 @@ vars:
   status: Beta
   verified: 'false'
 description: AI-powered SQL query assistant for analysts.
-icon: octopus-deploy
+icon: brain
 layout:
   width: wide
   title:

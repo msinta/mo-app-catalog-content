@@ -8,7 +8,7 @@ vars:
   status: Stable
   verified: 'true'
 description: Connect and sync tasks across Jira, Linear, and Asana.
-icon: diagram-subtask
+icon: list-check
 layout:
   width: wide
   title:

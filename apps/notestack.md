@@ -8,7 +8,7 @@ vars:
   status: Stable
   verified: 'false'
 description: Collaborative note-taking with markdown support.
-icon: memo-pad
+icon: layer-group
 layout:
   width: wide
   title:

@@ -8,7 +8,7 @@ vars:
   status: Beta
   verified: 'false'
 description: Build dynamic forms with validation and workflows.
-icon: fort
+icon: file-contract
 layout:
   width: wide
   title:

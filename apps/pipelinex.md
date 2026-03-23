@@ -8,7 +8,7 @@ vars:
   status: Beta
   verified: 'false'
 description: Visual ETL pipeline builder for data teams.
-icon: diagram-sankey
+icon: paper-plane
 layout:
   width: wide
   title:
