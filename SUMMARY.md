@@ -4,7 +4,7 @@
 
 ## App's
 
-* [DataSync](apps/datasync.md)
+* [DataSync Pro](apps/datasync.md)
 * [LogVault](apps/logvault.md)
 * [TaskBridge](apps/taskbridge.md)
 * [ErrorVault](apps/errorvault.md)
