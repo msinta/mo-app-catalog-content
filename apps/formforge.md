@@ -5,6 +5,7 @@ vars:
   requiredProduct: Workflow
   supportedVersions: 2023 R1, 2023 R2
   status: Beta
+  version: '2.1'
 description: Build dynamic forms with validation and workflows.
 icon: file-contract
 layout:
