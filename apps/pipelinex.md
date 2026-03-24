@@ -5,6 +5,7 @@ vars:
   requiredProduct: DataHub
   supportedVersions: 2023 R1, 2023 R2
   status: Beta
+  version: '1.1'
 description: Visual ETL pipeline builder for data teams.
 icon: paper-plane
 layout:

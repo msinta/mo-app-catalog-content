@@ -5,6 +5,7 @@ vars:
   requiredProduct: Analytics Suite
   supportedVersions: 2022 R1, 2022 R2, 2023 R1, 2023 R2
   status: Stable
+  version: '2.6'
 description: Drag-and-drop data visualization builder.
 icon: arrow-trend-up
 layout:
